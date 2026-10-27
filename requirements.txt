@@ -1,0 +1,10 @@
+python-telegram-bot[job-queue]==21.9
+httpx
+aiohttp
+base58
+PyNaCl
+mnemonic
+Pillow
+cryptography
+solders
+solana
